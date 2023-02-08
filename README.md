@@ -23,7 +23,6 @@ If you reach 100 points, you win.
 - If you have pip installed, just run `pip install pygame` on your terminal.
 - If you don't have pip, just install it and then run `pip install pygame`.
 - If you don't want to install pip, you can also install Pygame manually by downloading it from [here](https://www.pygame.org/download.shtml) and then running `python setup.py install` on the folder where you downloaded it.
-- If you don't want to install Pygame, you can also run the file `main.exe` on the folder `dist`.
 
 ## How to install Python ##
 
